@@ -15,6 +15,15 @@ namespace ISELECTutorialProject2021.WEB.Controllers
             return View();
         }
 
+        public IActionResult Gallery()
+        {
+            return View();
+        }
+
+        public IActionResult Videos()
+        {
+            return View();
+        }
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
