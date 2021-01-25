@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VGD 14\\source\\repos\\ISELECTutorialProject2021\\ISELECTutorialProject2021.WEB\\ISELECTutorialProject2021.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\VGD 14\\Pictures\\GithubRepositorySeedData\\ISELECTutorialProjectSeed\\ISELECTutorialProject2021.WEB\\ISELECTutorialProject2021.WEB.csproj",
       "projectName": "ISELECTutorialProject2021.WEB",
-      "projectPath": "C:\\Users\\VGD 14\\source\\repos\\ISELECTutorialProject2021\\ISELECTutorialProject2021.WEB\\ISELECTutorialProject2021.WEB.csproj",
+      "projectPath": "C:\\Users\\VGD 14\\Pictures\\GithubRepositorySeedData\\ISELECTutorialProjectSeed\\ISELECTutorialProject2021.WEB\\ISELECTutorialProject2021.WEB.csproj",
       "packagesPath": "C:\\Users\\VGD 14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VGD 14\\source\\repos\\ISELECTutorialProject2021\\ISELECTutorialProject2021.WEB\\obj\\",
+      "outputPath": "C:\\Users\\VGD 14\\Pictures\\GithubRepositorySeedData\\ISELECTutorialProjectSeed\\ISELECTutorialProject2021.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
